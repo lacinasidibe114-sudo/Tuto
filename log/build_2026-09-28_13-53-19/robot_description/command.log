@@ -1,0 +1,6 @@
+Invoking command in '/home/sidibe/Tuto/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Tuto/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/sidibe/Tuto/install/robot_description
+Invoked command in '/home/sidibe/Tuto/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Tuto/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/sidibe/Tuto/install/robot_description
+Invoking command in '/home/sidibe/Tuto/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/robot_description -- -j16 -l16
+Invoked command in '/home/sidibe/Tuto/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/robot_description -- -j16 -l16
+Invoking command in '/home/sidibe/Tuto/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/robot_description
+Invoked command in '/home/sidibe/Tuto/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/robot_description

@@ -1,0 +1,9 @@
+/home/sidibe/Tuto/build/controller/CMakeFiles/uninstall.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/controller_uninstall.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/test.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/edit_cache.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/rebuild_cache.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/list_install_components.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/install.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/install/local.dir
+/home/sidibe/Tuto/build/controller/CMakeFiles/install/strip.dir

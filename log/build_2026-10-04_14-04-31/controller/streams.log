@@ -1,0 +1,22 @@
+[0.010s] Invoking command in '/home/sidibe/Tuto/build/controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/controller -- -j16 -l16
+[0.042s] Invoked command in '/home/sidibe/Tuto/build/controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/controller -- -j16 -l16
+[0.043s] Invoking command in '/home/sidibe/Tuto/build/controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/controller
+[0.050s] -- Install configuration: ""
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/config
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/config/diff_control.yaml
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/ament_index/resource_index/package_run_dependencies/controller
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/ament_index/resource_index/parent_prefix_path/controller
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/environment/ament_prefix_path.sh
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/environment/ament_prefix_path.dsv
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/environment/path.sh
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/environment/path.dsv
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/local_setup.bash
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/local_setup.sh
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/local_setup.zsh
+[0.050s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/local_setup.dsv
+[0.051s] -- Installing: /home/sidibe/Tuto/install/controller/share/controller/package.dsv
+[0.051s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/ament_index/resource_index/packages/controller
+[0.051s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/cmake/controllerConfig.cmake
+[0.051s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/cmake/controllerConfig-version.cmake
+[0.051s] -- Up-to-date: /home/sidibe/Tuto/install/controller/share/controller/package.xml
+[0.059s] Invoked command in '/home/sidibe/Tuto/build/controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/controller

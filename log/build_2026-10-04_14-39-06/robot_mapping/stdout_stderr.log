@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/maps
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/maps/small_house
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/maps/small_house/data.db
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/maps/small_house/map.pgm
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/launch
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/launch/slam_toolbox.launch.py
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/launch/Rtabmap.launch.py
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/config
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/config/rtabmap_params.yaml
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/config/slam_toolbox_gazebo.yaml
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/ament_index/resource_index/package_run_dependencies/robot_mapping
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/ament_index/resource_index/parent_prefix_path/robot_mapping
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/environment/ament_prefix_path.sh
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/environment/path.sh
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/environment/path.dsv
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/local_setup.bash
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/local_setup.sh
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/local_setup.zsh
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/local_setup.dsv
+-- Installing: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/package.dsv
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/ament_index/resource_index/packages/robot_mapping
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/cmake/robot_mappingConfig.cmake
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/cmake/robot_mappingConfig-version.cmake
+-- Up-to-date: /home/sidibe/Tuto/install/robot_mapping/share/robot_mapping/package.xml

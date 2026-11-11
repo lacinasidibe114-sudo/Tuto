@@ -1,0 +1,6 @@
+Invoking command in '/home/sidibe/Tuto/build/controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Tuto/src/controller -DCMAKE_INSTALL_PREFIX=/home/sidibe/Tuto/install/controller
+Invoked command in '/home/sidibe/Tuto/build/controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Tuto/src/controller -DCMAKE_INSTALL_PREFIX=/home/sidibe/Tuto/install/controller
+Invoking command in '/home/sidibe/Tuto/build/controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/controller -- -j16 -l16
+Invoked command in '/home/sidibe/Tuto/build/controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/controller -- -j16 -l16
+Invoking command in '/home/sidibe/Tuto/build/controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/controller
+Invoked command in '/home/sidibe/Tuto/build/controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/controller

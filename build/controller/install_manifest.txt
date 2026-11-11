@@ -1,0 +1,16 @@
+/home/sidibe/Tuto/install/controller/share/controller/config/diff_control.yaml
+/home/sidibe/Tuto/install/controller/share/ament_index/resource_index/package_run_dependencies/controller
+/home/sidibe/Tuto/install/controller/share/ament_index/resource_index/parent_prefix_path/controller
+/home/sidibe/Tuto/install/controller/share/controller/environment/ament_prefix_path.sh
+/home/sidibe/Tuto/install/controller/share/controller/environment/ament_prefix_path.dsv
+/home/sidibe/Tuto/install/controller/share/controller/environment/path.sh
+/home/sidibe/Tuto/install/controller/share/controller/environment/path.dsv
+/home/sidibe/Tuto/install/controller/share/controller/local_setup.bash
+/home/sidibe/Tuto/install/controller/share/controller/local_setup.sh
+/home/sidibe/Tuto/install/controller/share/controller/local_setup.zsh
+/home/sidibe/Tuto/install/controller/share/controller/local_setup.dsv
+/home/sidibe/Tuto/install/controller/share/controller/package.dsv
+/home/sidibe/Tuto/install/controller/share/ament_index/resource_index/packages/controller
+/home/sidibe/Tuto/install/controller/share/controller/cmake/controllerConfig.cmake
+/home/sidibe/Tuto/install/controller/share/controller/cmake/controllerConfig-version.cmake
+/home/sidibe/Tuto/install/controller/share/controller/package.xml

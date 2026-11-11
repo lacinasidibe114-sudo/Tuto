@@ -1,0 +1,73 @@
+# Paramètres partagés par les noeuds rtabmap et rtabmap_viz
+# ATTENTION : les paramètres RTAB-Map (ceux avec un "/") doivent être des STRINGS -> guillemets obligatoires.
+/**:
+  ros__parameters:
+    use_sim_time: true
+    frame_id: "base_footprint"
+    odom_frame_id: "odom"
+    map_frame_id: "map"
+    subscribe_depth: false
+    subscribe_rgb: false
+    subscribe_scan: false
+    subscribe_scan_cloud: true
+    approx_sync: true
+    wait_for_transform: 0.5
+
+
+    odom_tf_linear_variance: 0.001
+    odom_tf_angular_variance: 0.001
+
+    # Registration par ICP
+    Reg/Strategy: "1"
+    Reg/Force3DoF: "true"
+    Icp/VoxelSize: "0.1"
+    Icp/PointToPlane: "true"
+    Icp/PointToPlaneK: "20"
+    Icp/PointToPlaneRadius: "0"
+    Icp/PointToPlaneGroundNormalsUp: "0.9"
+    Icp/MaxTranslation: "2"
+    Icp/MaxCorrespondenceDistance: "1"
+    Icp/Iterations: "30"
+    Icp/Epsilon: "0.001"
+    Icp/CorrespondenceRatio: "0.2"
+
+    # Noeuds / fermeture de boucle
+    RGBD/LinearUpdate: "0.1"
+    RGBD/AngularUpdate: "0.1"
+    RGBD/ProximityMaxGraphDepth: "0"
+    RGBD/ProximityPathMaxNeighbors: "1"
+    RGBD/OptimizeMaxError: "0"
+    Mem/NotLinkedNodesKept: "false"
+    Mem/STMSize: "30"
+    Optimizer/GravitySigma: "0"
+
+
+    # ============ CONSERVATION DES DONNÉES BRUTES ============
+    Mem/BinDataKept: "true"            # ← garde les scans bruts (INDISPENSABLE pour export 3D)
+    Mem/NotLinkedNodesKept: "true"     # ← était "false" : garde TOUS les nœuds
+    Rtabmap/SaveClouds: "true"         # ← sauvegarde les clouds associés dans la base
+
+
+   # Avec Mem/BinDataKept: "true", la base grossit beaucoup plus vite :
+   # Session	Sans BinDataKept	Avec BinDataKept
+    #1 min	~1 Mo	~10-30 Mo
+    #5 min	~5 Mo	~50-150 Mo
+
+    #Pour limiter, tu peux ajouter :
+    Rtabmap/DetectionRate: "1.0"       # 1 nœud/seconde au lieu de 10
+    Rtabmap/CloudDecimation: "4"       # sous-échantillonne les scans avant stockage
+
+
+
+    # Grille d'occupation 2D
+    Grid/Sensor: "0"
+    Grid/3D: "false"
+    Grid/CellSize: "0.05"
+    Grid/RangeMin: "0.2"
+    Grid/RangeMax: "12.0"
+    Grid/RayTracing: "true"
+    Grid/MaxGroundHeight: "0.05"
+    Grid/MaxObstacleHeight: "0.6"
+    Grid/NormalsSegmentation: "true"
+
+

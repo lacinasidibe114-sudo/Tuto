@@ -1,0 +1,4 @@
+Invoking command in '/home/sidibe/Tuto/build/robot_mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/robot_mapping -- -j16 -l16
+Invoked command in '/home/sidibe/Tuto/build/robot_mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Tuto/build/robot_mapping -- -j16 -l16
+Invoking command in '/home/sidibe/Tuto/build/robot_mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/robot_mapping
+Invoked command in '/home/sidibe/Tuto/build/robot_mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sidibe/training/install/learn:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Tuto/build/robot_mapping
